@@ -1,0 +1,59 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font: normal 100%/1.5 sans-serif;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+figcaption {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-bottom: 30;
+	color:#FFF;
+	padding-right: 3em;
+	padding-left: 1em;
+	padding-bottom: 2em;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30;
+  padding-right:;
+}
+
+img {
+  display: block;
+  width: 100%;
+  margin-bottom: -4em;
+}
+
+p {
+	color: #000;
+}
+
+h1 { font-size: 24px;
+	
+}
+
+h2 {
+	color: #999;
+	font-size: 12px;
+}
+
+data {
+	color: #000;
+}
